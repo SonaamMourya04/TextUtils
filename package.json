@@ -1,0 +1,28 @@
+{
+  "name": "textutils",
+  "version": "1.0.0",
+  "description": "Text",
+  "homepage": "https://github.com/SonaamMourya04/TextUtils#readme",
+  "bugs": {
+    "url": "https://github.com/SonaamMourya04/TextUtils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonaamMourya04/TextUtils.git"
+  },
+  "license": "ISC",
+  "author": "Sonam Mourya",
+  "type": "commonjs",
+  "scripts": {
+    "start": " parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
