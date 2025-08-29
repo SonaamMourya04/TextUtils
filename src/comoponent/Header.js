@@ -1,13 +1,13 @@
 import React from "react";
 
-const Header=({props})=>{
-    return(
-        <div>
-            {props.title}
-            {props.About}
-            {props.Services}
+const Header = ({ title, About, Services }) => {
+  return (
+    <div>
+      <h1>{title}</h1>
+      <p>{About}</p>
+      <p>{Services}</p>
+    </div>
+  );
+};
 
-        </div>
-    )
-}
 export default Header;

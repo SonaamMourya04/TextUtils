@@ -1,14 +1,16 @@
 import React from "react";
+import Header from "./comoponent/Header";
 
+const App = () => {
+  return (
+    <div>
+      <Header 
+        title="TextUtils" 
+        About="About Us" 
+        Services="Our Services" 
+      />
+    </div>
+  );
+};
 
-const App=()=>{
-    return(
-        <div>
-       <header title={TextUtils}
-            Services={Services}
-           About={About} />
-        </div>
-    );
-
-}
 export default App;
