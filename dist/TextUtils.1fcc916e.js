@@ -16198,8 +16198,8 @@ const Header = (props)=>{
                 lineNumber: 6,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                children: "Text analyser"
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                children: "Text analysers"
             }, void 0, false, {
                 fileName: "src/comoponent/Header.js",
                 lineNumber: 13,
@@ -16210,12 +16210,12 @@ const Header = (props)=>{
                 placeholder: "Enter text here..."
             }, void 0, false, {
                 fileName: "src/comoponent/Header.js",
-                lineNumber: 14,
+                lineNumber: 16,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {}, void 0, false, {
                 fileName: "src/comoponent/Header.js",
-                lineNumber: 18,
+                lineNumber: 20,
                 columnNumber: 7
             }, undefined)
         ]
